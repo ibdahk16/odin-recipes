@@ -1,0 +1,26 @@
+img {
+    width: 300px;
+    height: auto;
+}
+
+p {
+    font-size: 24px;
+    color: aquamarine;
+    background-color: black;
+}
+
+h1, h3, h4 {
+    color: red;
+}
+
+ul {
+    font-size: 16px;
+    font-family: "Times New Roman", Helvetica, sans-serif;
+    color: rebeccapurple;
+}
+
+ol {
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: red;
+}
